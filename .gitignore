@@ -1,0 +1,15 @@
+# idea folder
+.idea/
+__pycache__/
+.vscode/
+
+
+# temporal python files
+*.py[cod]
+*.out
+*.npy
+*.pdf
+
+ckpt/
+logs/
+features/
